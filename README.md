@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/AntiaIuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iuriantia" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/iuri+antia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iuri antia" height="30" width="40" /></a>
+<a href="https://twitter.com/AnitaIuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anitaiuri" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/iuri-antia-832b43269/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iuri antia" height="30" width="40" /></a>
 <a href="https://instagram.com/antiaiuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="antiaiuri" height="30" width="40" /></a>
 </p>
 
@@ -19,6 +19,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iurkaantia&show_icons=true&theme=dark&locale=en&layout=compact" alt="iurkaantia" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iurkaantia&show_icons=true&locale=en" alt="iurkaantia" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iurkaantia&show_icons=true&theme=dark&locale=en" alt="iurkaantia" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iurkaantia&theme=dark" alt="iurkaantia" /></p>
