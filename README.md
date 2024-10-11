@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Iuri</h1>
-<h3 align="center">A Back-end Developer from Tbilisi, Georgia.</h3>
+<h3 align="center">A Full Stack Developer from Tbilisi, Georgia.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iurkaantia" alt="iurkaantia" /></a> </p>
 
 - 🌱 I’m currently learning **React Native**
 
-- 📫 How to reach me **yuraantia@gmail.com**
+- 📫 How to reach me **www.iuriantia@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
